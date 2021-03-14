@@ -20,3 +20,4 @@
   Eg : To find python developers on LinkedIn
     use url http://localhost:5000/query/pythondeveloper
     will return JSON response
+ 
