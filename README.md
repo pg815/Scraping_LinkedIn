@@ -1,4 +1,4 @@
-# ScrapingLinkedIn
+# Scraping_LinkedIn
 
 ## To run
  
